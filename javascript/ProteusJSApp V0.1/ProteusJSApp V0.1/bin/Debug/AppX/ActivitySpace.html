@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>three.js webgl - STL</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+
+    <!-- Bootstrap core CSS & Custom CSS-->
+    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/the-big-picture.css" rel="stylesheet">
+
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-bottom">
+        <div class="container">
+            <a class="navbar-brand" href="#">Start Bootstrap</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="index.html">
+                            Home
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="demo.html">threeJsDemo</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="ActivitySpace.html">
+                            Activity Space
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="ActivitySpace2.html">ActivitySpace2</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Documentation</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- CAD Scripts -->
+    <!-- Import three.js script -->
+    <script src="lib/three.js/build/three.js"></script>
+
+
+
+
+
+    <!-- DOESNT WORK: drag controller test -->
+    <script src="lib/three.js/examples/js/controls/DragControls.js"></script>
+
+    <script src="lib/three.js/examples/js/controls/OrbitControls.js"></script>
+
+
+
+
+
+
+
+
+
+
+    <!-- Detector: Runs Client detection scripts; graphics, WebGP Canvas -->
+    <script src="js/CADService/Detector.js"></script>
+
+    <!-- Load STL requirements-->
+    <script src="js/CADService/STLPreLoader.js"></script>
+
+    <!-- Load Stats for FPS and Ping -->
+    <script src="lib/stats.js/build/stats.min.js"></script>
+
+    <!-- Load STL Files into the page -->
+    <script src="js/CADService/STLFileLoader.js"></script>
+
+
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+
+</body>
+</html>

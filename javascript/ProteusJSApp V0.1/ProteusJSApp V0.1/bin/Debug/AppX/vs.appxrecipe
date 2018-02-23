@@ -32,7 +32,7 @@
     <AppXManifest Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-23T17:10:08.174</Modified>
+      <Modified>2018-02-23T21:05:52.533</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -138,7 +138,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\index.html">
       <PackagePath>index.html</PackagePath>
-      <Modified>2018-02-23T17:10:03.091</Modified>
+      <Modified>2018-02-23T21:06:14.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\examples\basic.html">
+      <PackagePath>lib\stats.js\examples\basic.html</PackagePath>
+      <Modified>2018-02-23T19:05:52.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\examples\custom.html">
+      <PackagePath>lib\stats.js\examples\custom.html</PackagePath>
+      <Modified>2018-02-23T19:05:52.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\examples\stress.html">
+      <PackagePath>lib\stats.js\examples\stress.html</PackagePath>
+      <Modified>2018-02-23T19:05:52.851</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\docs\api\animation\AnimationAction.html">
       <PackagePath>lib\three.js\docs\api\animation\AnimationAction.html</PackagePath>
@@ -2784,9 +2796,17 @@
       <PackagePath>lib\three.js\test\unit\unittests_editor_toRemoveAfterEditorES6Refactoring.html</PackagePath>
       <Modified>2018-02-23T16:10:35.687</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\threejs.html">
-      <PackagePath>threejs.html</PackagePath>
-      <Modified>2018-02-23T17:14:28.596</Modified>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\ActivitySpace.html">
+      <PackagePath>ActivitySpace.html</PackagePath>
+      <Modified>2018-02-23T21:05:00.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\demo.html">
+      <PackagePath>demo.html</PackagePath>
+      <Modified>2018-02-23T21:05:14.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\ActivitySpace2.html">
+      <PackagePath>ActivitySpace2.html</PackagePath>
+      <Modified>2018-02-23T21:06:51.962</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
@@ -2821,6 +2841,22 @@
       <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-02-20T16:49:10.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\files\custom.png">
+      <PackagePath>lib\stats.js\files\custom.png</PackagePath>
+      <Modified>2018-02-23T19:05:52.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\files\fps.png">
+      <PackagePath>lib\stats.js\files\fps.png</PackagePath>
+      <Modified>2018-02-23T19:05:52.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\files\mb.png">
+      <PackagePath>lib\stats.js\files\mb.png</PackagePath>
+      <Modified>2018-02-23T19:05:52.934</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\files\ms.png">
+      <PackagePath>lib\stats.js\files\ms.png</PackagePath>
+      <Modified>2018-02-23T19:05:52.959</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\assimp\octaminator\1.png">
       <PackagePath>lib\three.js\examples\models\assimp\octaminator\1.png</PackagePath>
@@ -3334,13 +3370,41 @@
       <PackagePath>lib\three.js\utils\exporters\blender\tests\blend\textures\normal.png</PackagePath>
       <Modified>2018-02-23T16:10:36.103</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\js\CADService\dragController.js">
+      <PackagePath>js\CADService\dragController.js</PackagePath>
+      <Modified>2018-02-23T19:50:39.304</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\js\main.js">
       <PackagePath>js\main.js</PackagePath>
       <Modified>2018-02-23T15:38:30.138</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\js\stlRenderer.js">
-      <PackagePath>js\stlRenderer.js</PackagePath>
-      <Modified>2018-02-23T17:03:56.550</Modified>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\js\CADService\Detector.js">
+      <PackagePath>js\CADService\Detector.js</PackagePath>
+      <Modified>2018-02-23T19:02:35.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\js\CADService\STLPreLoader.js">
+      <PackagePath>js\CADService\STLPreLoader.js</PackagePath>
+      <Modified>2018-02-23T19:58:16.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\js\CADService\STLFileLoader.js">
+      <PackagePath>js\CADService\STLFileLoader.js</PackagePath>
+      <Modified>2018-02-23T20:42:45.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\build\stats.js">
+      <PackagePath>lib\stats.js\build\stats.js</PackagePath>
+      <Modified>2018-02-23T19:05:52.735</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\build\stats.min.js">
+      <PackagePath>lib\stats.js\build\stats.min.js</PackagePath>
+      <Modified>2018-02-23T19:05:52.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\rollup.config.js">
+      <PackagePath>lib\stats.js\rollup.config.js</PackagePath>
+      <Modified>2018-02-23T19:05:52.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\src\Stats.js">
+      <PackagePath>lib\stats.js\src\Stats.js</PackagePath>
+      <Modified>2018-02-23T19:05:52.991</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\build\three.js">
       <PackagePath>lib\three.js\build\three.js</PackagePath>
@@ -7314,6 +7378,10 @@
       <PackagePath>js\threeJsDemo.js</PackagePath>
       <Modified>2018-02-23T17:10:03.691</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\js\CADService\method2.js">
+      <PackagePath>js\CADService\method2.js</PackagePath>
+      <Modified>2018-02-23T21:02:30.460</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\js\bootstrap.bundle.js">
       <PackagePath>vendor\bootstrap\js\bootstrap.bundle.js</PackagePath>
       <Modified>2018-01-30T01:51:00.000</Modified>
@@ -7346,105 +7414,9 @@
       <PackagePath>vendor\jquery\jquery.slim.min.js</PackagePath>
       <Modified>2018-01-30T01:51:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.gitattributes">
-      <PackagePath>lib\three.js\.gitattributes</PackagePath>
-      <Modified>2018-02-23T16:10:25.769</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.github\CONTRIBUTING.md">
-      <PackagePath>lib\three.js\.github\CONTRIBUTING.md</PackagePath>
-      <Modified>2018-02-23T16:10:25.771</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.github\ISSUE_TEMPLATE.md">
-      <PackagePath>lib\three.js\.github\ISSUE_TEMPLATE.md</PackagePath>
-      <Modified>2018-02-23T16:10:25.772</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\docs\api\CONTRIBUTING.md">
-      <PackagePath>lib\three.js\docs\api\CONTRIBUTING.md</PackagePath>
-      <Modified>2018-02-23T16:10:25.824</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\editor\docs\Implementing additional commands for undo-redo.md">
-      <PackagePath>lib\three.js\editor\docs\Implementing additional commands for undo-redo.md</PackagePath>
-      <Modified>2018-02-23T16:10:26.269</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\editor\docs\Writing unit tests for undo-redo commands.md">
-      <PackagePath>lib\three.js\editor\docs\Writing unit tests for undo-redo commands.md</PackagePath>
-      <Modified>2018-02-23T16:10:26.273</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\js\libs\draco\README.md">
-      <PackagePath>lib\three.js\examples\js\libs\draco\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:26.719</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\AnimatedMorphSphere\README.md">
-      <PackagePath>lib\three.js\examples\models\gltf\AnimatedMorphSphere\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:27.906</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\BoomBox\README.md">
-      <PackagePath>lib\three.js\examples\models\gltf\BoomBox\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:27.932</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\CesiumMan\README.md">
-      <PackagePath>lib\three.js\examples\models\gltf\CesiumMan\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:28.522</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\CesiumMilkTruck\README.md">
-      <PackagePath>lib\three.js\examples\models\gltf\CesiumMilkTruck\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:28.600</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\DamagedHelmet\README.md">
-      <PackagePath>lib\three.js\examples\models\gltf\DamagedHelmet\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:28.720</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\Duck\README.md">
-      <PackagePath>lib\three.js\examples\models\gltf\Duck\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:28.791</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\MetalRoughSpheres\README.md">
-      <PackagePath>lib\three.js\examples\models\gltf\MetalRoughSpheres\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:28.825</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\Monster\README.md">
-      <PackagePath>lib\three.js\examples\models\gltf\Monster\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:29.347</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\OutlinedBox\README.md">
-      <PackagePath>lib\three.js\examples\models\gltf\OutlinedBox\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:29.414</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\RiggedSimple\README.md">
-      <PackagePath>lib\three.js\examples\models\gltf\RiggedSimple\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:29.418</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\README.md">
-      <PackagePath>lib\three.js\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:25.775</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\test\benchmark\README.MD">
-      <PackagePath>lib\three.js\test\benchmark\README.MD</PackagePath>
-      <Modified>2018-02-23T16:10:35.094</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\utils\build\README.md">
-      <PackagePath>lib\three.js\utils\build\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:35.690</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\utils\converters\fbx\README.md">
-      <PackagePath>lib\three.js\utils\converters\fbx\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:35.714</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\utils\converters\README.md">
-      <PackagePath>lib\three.js\utils\converters\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:35.693</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\utils\exporters\blender\modules\README.md">
-      <PackagePath>lib\three.js\utils\exporters\blender\modules\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:35.839</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\utils\exporters\blender\README.md">
-      <PackagePath>lib\three.js\utils\exporters\blender\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:35.786</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\utils\exporters\blender\tests\README.md">
-      <PackagePath>lib\three.js\utils\exporters\blender\tests\README.md</PackagePath>
-      <Modified>2018-02-23T16:10:35.873</Modified>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\.gitignore">
+      <PackagePath>lib\stats.js\.gitignore</PackagePath>
+      <Modified>2018-02-23T19:05:52.567</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.gitignore">
       <PackagePath>lib\three.js\.gitignore</PackagePath>
@@ -7454,137 +7426,13 @@
       <PackagePath>lib\three.js\utils\exporters\blender\.gitignore</PackagePath>
       <Modified>2018-02-23T16:10:35.784</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\config">
-      <PackagePath>lib\three.js\.git\config</PackagePath>
-      <Modified>2018-02-23T16:10:25.729</Modified>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\bower.json">
+      <PackagePath>lib\stats.js\bower.json</PackagePath>
+      <Modified>2018-02-23T19:05:52.649</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\description">
-      <PackagePath>lib\three.js\.git\description</PackagePath>
-      <Modified>2018-02-23T16:06:53.131</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\HEAD">
-      <PackagePath>lib\three.js\.git\HEAD</PackagePath>
-      <Modified>2018-02-23T16:10:25.715</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\index">
-      <PackagePath>lib\three.js\.git\index</PackagePath>
-      <Modified>2018-02-23T16:10:36.315</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\info\exclude">
-      <PackagePath>lib\three.js\.git\info\exclude</PackagePath>
-      <Modified>2018-02-23T16:06:53.150</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\logs\HEAD">
-      <PackagePath>lib\three.js\.git\logs\HEAD</PackagePath>
-      <Modified>2018-02-23T16:10:25.721</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\logs\refs\heads\dev">
-      <PackagePath>lib\three.js\.git\logs\refs\heads\dev</PackagePath>
-      <Modified>2018-02-23T16:10:25.723</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\logs\refs\remotes\origin\HEAD">
-      <PackagePath>lib\three.js\.git\logs\refs\remotes\origin\HEAD</PackagePath>
-      <Modified>2018-02-23T16:10:25.711</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\packed-refs">
-      <PackagePath>lib\three.js\.git\packed-refs</PackagePath>
-      <Modified>2018-02-23T16:10:25.704</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\refs\heads\dev">
-      <PackagePath>lib\three.js\.git\refs\heads\dev</PackagePath>
-      <Modified>2018-02-23T16:10:25.720</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\refs\remotes\origin\HEAD">
-      <PackagePath>lib\three.js\.git\refs\remotes\origin\HEAD</PackagePath>
-      <Modified>2018-02-23T16:10:25.712</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\fonts\droid\NOTICE">
-      <PackagePath>lib\three.js\examples\fonts\droid\NOTICE</PackagePath>
-      <Modified>2018-02-23T16:10:26.506</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\fonts\LICENSE">
-      <PackagePath>lib\three.js\examples\fonts\LICENSE</PackagePath>
-      <Modified>2018-02-23T16:10:26.503</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\fonts\README">
-      <PackagePath>lib\three.js\examples\fonts\README</PackagePath>
-      <Modified>2018-02-23T16:10:26.504</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\mmd\LICENSE">
-      <PackagePath>lib\three.js\examples\models\mmd\LICENSE</PackagePath>
-      <Modified>2018-02-23T16:10:29.840</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\LICENSE">
-      <PackagePath>lib\three.js\LICENSE</PackagePath>
-      <Modified>2018-02-23T16:10:25.775</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\utils\converters\fbx\LICENSE">
-      <PackagePath>lib\three.js\utils\converters\fbx\LICENSE</PackagePath>
-      <Modified>2018-02-23T16:10:35.711</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\utils\converters\utf8\src\README">
-      <PackagePath>lib\three.js\utils\converters\utf8\src\README</PackagePath>
-      <Modified>2018-02-23T16:10:35.761</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\applypatch-msg.sample">
-      <PackagePath>lib\three.js\.git\hooks\applypatch-msg.sample</PackagePath>
-      <Modified>2018-02-23T16:06:53.133</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\commit-msg.sample">
-      <PackagePath>lib\three.js\.git\hooks\commit-msg.sample</PackagePath>
-      <Modified>2018-02-23T16:06:53.134</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\fsmonitor-watchman.sample">
-      <PackagePath>lib\three.js\.git\hooks\fsmonitor-watchman.sample</PackagePath>
-      <Modified>2018-02-23T16:06:53.136</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\post-update.sample">
-      <PackagePath>lib\three.js\.git\hooks\post-update.sample</PackagePath>
-      <Modified>2018-02-23T16:06:53.137</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\pre-applypatch.sample">
-      <PackagePath>lib\three.js\.git\hooks\pre-applypatch.sample</PackagePath>
-      <Modified>2018-02-23T16:06:53.138</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\pre-commit.sample">
-      <PackagePath>lib\three.js\.git\hooks\pre-commit.sample</PackagePath>
-      <Modified>2018-02-23T16:06:53.140</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\pre-push.sample">
-      <PackagePath>lib\three.js\.git\hooks\pre-push.sample</PackagePath>
-      <Modified>2018-02-23T16:06:53.142</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\pre-rebase.sample">
-      <PackagePath>lib\three.js\.git\hooks\pre-rebase.sample</PackagePath>
-      <Modified>2018-02-23T16:06:53.143</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\pre-receive.sample">
-      <PackagePath>lib\three.js\.git\hooks\pre-receive.sample</PackagePath>
-      <Modified>2018-02-23T16:06:53.145</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\prepare-commit-msg.sample">
-      <PackagePath>lib\three.js\.git\hooks\prepare-commit-msg.sample</PackagePath>
-      <Modified>2018-02-23T16:06:53.146</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\update.sample">
-      <PackagePath>lib\three.js\.git\hooks\update.sample</PackagePath>
-      <Modified>2018-02-23T16:06:53.148</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\objects\pack\pack-2ef0fbaca7272d70be34f7b77addc3d434cdb2b1.idx">
-      <PackagePath>lib\three.js\.git\objects\pack\pack-2ef0fbaca7272d70be34f7b77addc3d434cdb2b1.idx</PackagePath>
-      <Modified>2018-02-23T16:10:25.599</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\objects\pack\pack-2ef0fbaca7272d70be34f7b77addc3d434cdb2b1.pack">
-      <PackagePath>lib\three.js\.git\objects\pack\pack-2ef0fbaca7272d70be34f7b77addc3d434cdb2b1.pack</PackagePath>
-      <Modified>2018-02-23T16:10:25.612</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\scenes\robo_pigeon.pack">
-      <PackagePath>lib\three.js\examples\scenes\robo_pigeon.pack</PackagePath>
-      <Modified>2018-02-23T16:10:32.466</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.npmignore">
-      <PackagePath>lib\three.js\.npmignore</PackagePath>
-      <Modified>2018-02-23T16:10:25.774</Modified>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\package.json">
+      <PackagePath>lib\stats.js\package.json</PackagePath>
+      <Modified>2018-02-23T19:05:52.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\bower.json">
       <PackagePath>lib\three.js\bower.json</PackagePath>
@@ -7773,6 +7621,262 @@
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\package.json">
       <PackagePath>lib\three.js\package.json</PackagePath>
       <Modified>2018-02-23T16:23:29.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\LICENSE">
+      <PackagePath>lib\stats.js\LICENSE</PackagePath>
+      <Modified>2018-02-23T19:05:52.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\utils\compiler\COPYING">
+      <PackagePath>lib\stats.js\utils\compiler\COPYING</PackagePath>
+      <Modified>2018-02-23T19:05:53.029</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\config">
+      <PackagePath>lib\three.js\.git\config</PackagePath>
+      <Modified>2018-02-23T16:10:25.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\description">
+      <PackagePath>lib\three.js\.git\description</PackagePath>
+      <Modified>2018-02-23T16:06:53.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\HEAD">
+      <PackagePath>lib\three.js\.git\HEAD</PackagePath>
+      <Modified>2018-02-23T16:10:25.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\index">
+      <PackagePath>lib\three.js\.git\index</PackagePath>
+      <Modified>2018-02-23T16:10:36.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\info\exclude">
+      <PackagePath>lib\three.js\.git\info\exclude</PackagePath>
+      <Modified>2018-02-23T16:06:53.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\logs\HEAD">
+      <PackagePath>lib\three.js\.git\logs\HEAD</PackagePath>
+      <Modified>2018-02-23T16:10:25.721</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\logs\refs\heads\dev">
+      <PackagePath>lib\three.js\.git\logs\refs\heads\dev</PackagePath>
+      <Modified>2018-02-23T16:10:25.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\logs\refs\remotes\origin\HEAD">
+      <PackagePath>lib\three.js\.git\logs\refs\remotes\origin\HEAD</PackagePath>
+      <Modified>2018-02-23T16:10:25.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\packed-refs">
+      <PackagePath>lib\three.js\.git\packed-refs</PackagePath>
+      <Modified>2018-02-23T16:10:25.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\refs\heads\dev">
+      <PackagePath>lib\three.js\.git\refs\heads\dev</PackagePath>
+      <Modified>2018-02-23T16:10:25.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\refs\remotes\origin\HEAD">
+      <PackagePath>lib\three.js\.git\refs\remotes\origin\HEAD</PackagePath>
+      <Modified>2018-02-23T16:10:25.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\fonts\droid\NOTICE">
+      <PackagePath>lib\three.js\examples\fonts\droid\NOTICE</PackagePath>
+      <Modified>2018-02-23T16:10:26.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\fonts\LICENSE">
+      <PackagePath>lib\three.js\examples\fonts\LICENSE</PackagePath>
+      <Modified>2018-02-23T16:10:26.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\fonts\README">
+      <PackagePath>lib\three.js\examples\fonts\README</PackagePath>
+      <Modified>2018-02-23T16:10:26.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\mmd\LICENSE">
+      <PackagePath>lib\three.js\examples\models\mmd\LICENSE</PackagePath>
+      <Modified>2018-02-23T16:10:29.840</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\LICENSE">
+      <PackagePath>lib\three.js\LICENSE</PackagePath>
+      <Modified>2018-02-23T16:10:25.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\utils\converters\fbx\LICENSE">
+      <PackagePath>lib\three.js\utils\converters\fbx\LICENSE</PackagePath>
+      <Modified>2018-02-23T16:10:35.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\utils\converters\utf8\src\README">
+      <PackagePath>lib\three.js\utils\converters\utf8\src\README</PackagePath>
+      <Modified>2018-02-23T16:10:35.761</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\README.md">
+      <PackagePath>lib\stats.js\README.md</PackagePath>
+      <Modified>2018-02-23T19:05:52.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\utils\compiler\README.md">
+      <PackagePath>lib\stats.js\utils\compiler\README.md</PackagePath>
+      <Modified>2018-02-23T19:05:53.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.github\CONTRIBUTING.md">
+      <PackagePath>lib\three.js\.github\CONTRIBUTING.md</PackagePath>
+      <Modified>2018-02-23T16:10:25.771</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.github\ISSUE_TEMPLATE.md">
+      <PackagePath>lib\three.js\.github\ISSUE_TEMPLATE.md</PackagePath>
+      <Modified>2018-02-23T16:10:25.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\docs\api\CONTRIBUTING.md">
+      <PackagePath>lib\three.js\docs\api\CONTRIBUTING.md</PackagePath>
+      <Modified>2018-02-23T16:10:25.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\editor\docs\Implementing additional commands for undo-redo.md">
+      <PackagePath>lib\three.js\editor\docs\Implementing additional commands for undo-redo.md</PackagePath>
+      <Modified>2018-02-23T16:10:26.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\editor\docs\Writing unit tests for undo-redo commands.md">
+      <PackagePath>lib\three.js\editor\docs\Writing unit tests for undo-redo commands.md</PackagePath>
+      <Modified>2018-02-23T16:10:26.273</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\js\libs\draco\README.md">
+      <PackagePath>lib\three.js\examples\js\libs\draco\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:26.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\AnimatedMorphSphere\README.md">
+      <PackagePath>lib\three.js\examples\models\gltf\AnimatedMorphSphere\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:27.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\BoomBox\README.md">
+      <PackagePath>lib\three.js\examples\models\gltf\BoomBox\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:27.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\CesiumMan\README.md">
+      <PackagePath>lib\three.js\examples\models\gltf\CesiumMan\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:28.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\CesiumMilkTruck\README.md">
+      <PackagePath>lib\three.js\examples\models\gltf\CesiumMilkTruck\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:28.600</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\DamagedHelmet\README.md">
+      <PackagePath>lib\three.js\examples\models\gltf\DamagedHelmet\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:28.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\Duck\README.md">
+      <PackagePath>lib\three.js\examples\models\gltf\Duck\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:28.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\MetalRoughSpheres\README.md">
+      <PackagePath>lib\three.js\examples\models\gltf\MetalRoughSpheres\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:28.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\Monster\README.md">
+      <PackagePath>lib\three.js\examples\models\gltf\Monster\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:29.347</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\OutlinedBox\README.md">
+      <PackagePath>lib\three.js\examples\models\gltf\OutlinedBox\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:29.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\gltf\RiggedSimple\README.md">
+      <PackagePath>lib\three.js\examples\models\gltf\RiggedSimple\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:29.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\README.md">
+      <PackagePath>lib\three.js\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:25.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\test\benchmark\README.MD">
+      <PackagePath>lib\three.js\test\benchmark\README.MD</PackagePath>
+      <Modified>2018-02-23T16:10:35.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\utils\build\README.md">
+      <PackagePath>lib\three.js\utils\build\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:35.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\utils\converters\fbx\README.md">
+      <PackagePath>lib\three.js\utils\converters\fbx\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:35.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\utils\converters\README.md">
+      <PackagePath>lib\three.js\utils\converters\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:35.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\utils\exporters\blender\modules\README.md">
+      <PackagePath>lib\three.js\utils\exporters\blender\modules\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:35.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\utils\exporters\blender\README.md">
+      <PackagePath>lib\three.js\utils\exporters\blender\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:35.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\utils\exporters\blender\tests\README.md">
+      <PackagePath>lib\three.js\utils\exporters\blender\tests\README.md</PackagePath>
+      <Modified>2018-02-23T16:10:35.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\utils\compiler\closure-compiler-v20160713.jar">
+      <PackagePath>lib\stats.js\utils\compiler\closure-compiler-v20160713.jar</PackagePath>
+      <Modified>2018-02-23T19:05:53.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\stats.js\utils\compiler\compiler.jar">
+      <PackagePath>lib\stats.js\utils\compiler\compiler.jar</PackagePath>
+      <Modified>2018-02-23T19:05:53.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.gitattributes">
+      <PackagePath>lib\three.js\.gitattributes</PackagePath>
+      <Modified>2018-02-23T16:10:25.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\applypatch-msg.sample">
+      <PackagePath>lib\three.js\.git\hooks\applypatch-msg.sample</PackagePath>
+      <Modified>2018-02-23T16:06:53.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\commit-msg.sample">
+      <PackagePath>lib\three.js\.git\hooks\commit-msg.sample</PackagePath>
+      <Modified>2018-02-23T16:06:53.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\fsmonitor-watchman.sample">
+      <PackagePath>lib\three.js\.git\hooks\fsmonitor-watchman.sample</PackagePath>
+      <Modified>2018-02-23T16:06:53.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\post-update.sample">
+      <PackagePath>lib\three.js\.git\hooks\post-update.sample</PackagePath>
+      <Modified>2018-02-23T16:06:53.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\pre-applypatch.sample">
+      <PackagePath>lib\three.js\.git\hooks\pre-applypatch.sample</PackagePath>
+      <Modified>2018-02-23T16:06:53.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\pre-commit.sample">
+      <PackagePath>lib\three.js\.git\hooks\pre-commit.sample</PackagePath>
+      <Modified>2018-02-23T16:06:53.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\pre-push.sample">
+      <PackagePath>lib\three.js\.git\hooks\pre-push.sample</PackagePath>
+      <Modified>2018-02-23T16:06:53.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\pre-rebase.sample">
+      <PackagePath>lib\three.js\.git\hooks\pre-rebase.sample</PackagePath>
+      <Modified>2018-02-23T16:06:53.143</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\pre-receive.sample">
+      <PackagePath>lib\three.js\.git\hooks\pre-receive.sample</PackagePath>
+      <Modified>2018-02-23T16:06:53.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\prepare-commit-msg.sample">
+      <PackagePath>lib\three.js\.git\hooks\prepare-commit-msg.sample</PackagePath>
+      <Modified>2018-02-23T16:06:53.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\hooks\update.sample">
+      <PackagePath>lib\three.js\.git\hooks\update.sample</PackagePath>
+      <Modified>2018-02-23T16:06:53.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\objects\pack\pack-2ef0fbaca7272d70be34f7b77addc3d434cdb2b1.idx">
+      <PackagePath>lib\three.js\.git\objects\pack\pack-2ef0fbaca7272d70be34f7b77addc3d434cdb2b1.idx</PackagePath>
+      <Modified>2018-02-23T16:10:25.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.git\objects\pack\pack-2ef0fbaca7272d70be34f7b77addc3d434cdb2b1.pack">
+      <PackagePath>lib\three.js\.git\objects\pack\pack-2ef0fbaca7272d70be34f7b77addc3d434cdb2b1.pack</PackagePath>
+      <Modified>2018-02-23T16:10:25.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\scenes\robo_pigeon.pack">
+      <PackagePath>lib\three.js\examples\scenes\robo_pigeon.pack</PackagePath>
+      <Modified>2018-02-23T16:10:32.466</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\.npmignore">
+      <PackagePath>lib\three.js\.npmignore</PackagePath>
+      <Modified>2018-02-23T16:10:25.774</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\docs\files\inconsolata.woff">
       <PackagePath>lib\three.js\docs\files\inconsolata.woff</PackagePath>
@@ -9562,6 +9666,26 @@
       <PackagePath>lib\three.js\examples\models\stl\binary\pr2_head_tilt.stl</PackagePath>
       <Modified>2018-02-23T16:10:31.809</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\models\stl\Model1.STL">
+      <PackagePath>models\stl\Model1.STL</PackagePath>
+      <Modified>2018-02-23T20:38:17.755</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\models\stl\Model.STL">
+      <PackagePath>models\stl\Model.STL</PackagePath>
+      <Modified>2018-02-23T20:38:17.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\models\stl\Model2.STL">
+      <PackagePath>models\stl\Model2.STL</PackagePath>
+      <Modified>2018-02-23T20:38:17.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\models\stl\Model3.STL">
+      <PackagePath>models\stl\Model3.STL</PackagePath>
+      <Modified>2018-02-23T20:38:17.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\models\stl\Model4.STL">
+      <PackagePath>models\stl\Model4.STL</PackagePath>
+      <Modified>2018-02-23T20:38:17.638</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\examples\models\utf8\ben.utf8">
       <PackagePath>lib\three.js\examples\models\utf8\ben.utf8</PackagePath>
       <Modified>2018-02-23T16:10:31.888</Modified>
@@ -10665,7 +10789,7 @@
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-23T17:10:07.117</Modified>
+      <Modified>2018-02-23T21:05:51.545</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
