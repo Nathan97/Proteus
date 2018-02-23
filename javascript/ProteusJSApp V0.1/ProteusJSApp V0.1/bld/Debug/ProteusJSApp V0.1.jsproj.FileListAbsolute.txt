@@ -15,3 +15,4 @@ C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSAp
 C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\qualifiers.txt.intermediate
 C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\ProjectArchitectures.txt
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\ProteusJSApp V0.1.jsproj.GenerateResource.Cache
