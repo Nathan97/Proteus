@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-OGLC6DM</Machine>
+    <WindowsUser>halln</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bd281b4e-333b-4e8e-958c-3b0155d2e4d9</PackageIdentityName>
+    <PackageIdentityPublisher>CN=halln</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>F6D14E7881106A81392AB033B08ABEF2B67E714EEF46E056FA3B91B8F4926F03</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>bd281b4e-333b-4e8e-958c-3b0155d2e4d9_1.0.0.0_neutral__vs9e4faga826y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>bd281b4e-333b-4e8e-958c-3b0155d2e4d9_vs9e4faga826y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>bd281b4e-333b-4e8e-958c-3b0155d2e4d9</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=halln</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-23T15:55:56.848</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\css\the-big-picture.css">
+      <PackagePath>css\the-big-picture.css</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-02-23T15:38:30.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2018-02-20T16:49:10.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2018-02-20T16:49:10.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\css\bootstrap-grid.css">
+      <PackagePath>vendor\bootstrap\css\bootstrap-grid.css</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\css\bootstrap-grid.min.css">
+      <PackagePath>vendor\bootstrap\css\bootstrap-grid.min.css</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\css\bootstrap-reboot.css">
+      <PackagePath>vendor\bootstrap\css\bootstrap-reboot.css</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\css\bootstrap-reboot.min.css">
+      <PackagePath>vendor\bootstrap\css\bootstrap-reboot.min.css</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\css\bootstrap.css">
+      <PackagePath>vendor\bootstrap\css\bootstrap.css</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\css\bootstrap.min.css">
+      <PackagePath>vendor\bootstrap\css\bootstrap.min.css</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-02-23T15:55:51.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-02-20T16:49:10.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-20T16:49:10.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-20T16:49:10.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-20T16:49:10.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-20T16:49:10.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-20T16:49:10.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-20T16:49:10.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2018-02-23T15:38:30.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+      <Modified>2018-02-20T16:49:10.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+      <Modified>2018-02-20T16:49:10.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\js\bootstrap.bundle.js">
+      <PackagePath>vendor\bootstrap\js\bootstrap.bundle.js</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\js\bootstrap.bundle.min.js">
+      <PackagePath>vendor\bootstrap\js\bootstrap.bundle.min.js</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\js\bootstrap.js">
+      <PackagePath>vendor\bootstrap\js\bootstrap.js</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\js\bootstrap.min.js">
+      <PackagePath>vendor\bootstrap\js\bootstrap.min.js</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\jquery\jquery.js">
+      <PackagePath>vendor\jquery\jquery.js</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\jquery\jquery.min.js">
+      <PackagePath>vendor\jquery\jquery.min.js</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\jquery\jquery.slim.js">
+      <PackagePath>vendor\jquery\jquery.slim.js</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\jquery\jquery.slim.min.js">
+      <PackagePath>vendor\jquery\jquery.slim.min.js</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\winjs-4.0.1\fonts\Symbols.ttf">
+      <PackagePath>lib\winjs-4.0.1\fonts\Symbols.ttf</PackagePath>
+      <Modified>2018-02-20T16:49:10.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\css\bootstrap.css.map">
+      <PackagePath>vendor\bootstrap\css\bootstrap.css.map</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\css\bootstrap.min.css.map">
+      <PackagePath>vendor\bootstrap\css\bootstrap.min.css.map</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\js\bootstrap.bundle.js.map">
+      <PackagePath>vendor\bootstrap\js\bootstrap.bundle.js.map</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\js\bootstrap.bundle.min.js.map">
+      <PackagePath>vendor\bootstrap\js\bootstrap.bundle.min.js.map</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\js\bootstrap.js.map">
+      <PackagePath>vendor\bootstrap\js\bootstrap.js.map</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\js\bootstrap.min.js.map">
+      <PackagePath>vendor\bootstrap\js\bootstrap.min.js.map</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\jquery\jquery.min.map">
+      <PackagePath>vendor\jquery\jquery.min.map</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\jquery\jquery.slim.min.map">
+      <PackagePath>vendor\jquery\jquery.slim.min.map</PackagePath>
+      <Modified>2018-01-30T01:51:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-23T15:55:56.621</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

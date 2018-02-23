@@ -1,0 +1,17 @@
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bin\Debug\ReverseMap\resources.pri
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bin\Debug\AppxManifest.xml
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bin\Debug\ProteusJSApp V0.1.build.appxrecipe
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\ProteusJSApp V0.1.jsproj.CoreCompileInputs.cache
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\ResourceHandlingTask.state
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\priconfig.xml
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\priconfig.xml.intermediate
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\layout.resfiles
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\layout.resfiles.intermediate
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\resources.resfiles
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\resources.resfiles.intermediate
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\pri.resfiles
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\pri.resfiles.intermediate
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\qualifiers.txt
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\qualifiers.txt.intermediate
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bld\Debug\ProjectArchitectures.txt
