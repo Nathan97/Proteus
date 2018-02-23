@@ -32,7 +32,7 @@
     <AppXManifest Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-23T16:52:19.414</Modified>
+      <Modified>2018-02-23T17:10:08.174</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -138,7 +138,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\index.html">
       <PackagePath>index.html</PackagePath>
-      <Modified>2018-02-23T16:44:14.903</Modified>
+      <Modified>2018-02-23T17:10:03.091</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\docs\api\animation\AnimationAction.html">
       <PackagePath>lib\three.js\docs\api\animation\AnimationAction.html</PackagePath>
@@ -2786,7 +2786,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\threejs.html">
       <PackagePath>threejs.html</PackagePath>
-      <Modified>2018-02-23T16:52:09.632</Modified>
+      <Modified>2018-02-23T17:14:28.596</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
@@ -3337,6 +3337,10 @@
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\js\main.js">
       <PackagePath>js\main.js</PackagePath>
       <Modified>2018-02-23T15:38:30.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\js\stlRenderer.js">
+      <PackagePath>js\stlRenderer.js</PackagePath>
+      <Modified>2018-02-23T17:03:56.550</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\build\three.js">
       <PackagePath>lib\three.js\build\three.js</PackagePath>
@@ -7308,7 +7312,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\js\threeJsDemo.js">
       <PackagePath>js\threeJsDemo.js</PackagePath>
-      <Modified>2018-02-23T16:40:53.891</Modified>
+      <Modified>2018-02-23T17:10:03.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\vendor\bootstrap\js\bootstrap.bundle.js">
       <PackagePath>vendor\bootstrap\js\bootstrap.bundle.js</PackagePath>
@@ -10661,7 +10665,7 @@
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-23T16:52:18.311</Modified>
+      <Modified>2018-02-23T17:10:07.117</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

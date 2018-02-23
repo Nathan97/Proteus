@@ -2503,6 +2503,9 @@
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\js\main.js">
       <PackagePath>js\main.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\js\stlRenderer.js">
+      <PackagePath>js\stlRenderer.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus\javascript\ProteusJSApp V0.1\ProteusJSApp V0.1\lib\three.js\build\three.js">
       <PackagePath>lib\three.js\build\three.js</PackagePath>
     </AppxPackagedFile>

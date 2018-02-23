@@ -9,6 +9,7 @@ images\StoreLogo.png
 images\Wide310x150Logo.scale-200.png
 index.html
 js\main.js
+js\stlRenderer.js
 js\threeJsDemo.js
 lib\three.js\.git\config
 lib\three.js\.git\description

@@ -1,4 +1,6 @@
-﻿var camera, scene, renderer;
+﻿//A demo script that when called will render a rotating cube.
+
+var camera, scene, renderer;
 var geometry, material, mesh;
 
 init();
